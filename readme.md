@@ -5,7 +5,7 @@ Summize is an open-source article summarizer that utilizes Natural Language Proc
 To use Summize, clone this repository to your local machine using the following command:
 
 Copy
-`git clone https://github.com/yoseflakew25/AI-article-summarizer.git`
+```git clone https://github.com/yoseflakew25/AI-article-summarizer.git```
 Then, navigate into the cloned directory and install the required dependencies using pip:
 
 basic
