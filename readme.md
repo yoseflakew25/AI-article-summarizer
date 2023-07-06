@@ -11,33 +11,13 @@ To use Summize, clone this repository to your local machine using the following 
 ```sh
 git clone https://github.com/yoseflakew25/AI-article-summarizer.git
 ```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-
-
-
-
-
-bash
-Copy code
-git clone https://github.com/yoseflakew25/AI-article-summarizer.git
 Then, navigate into the cloned directory and install the required dependencies using pip:
 
-bash
-Copy code
+```sh
 cd AI-article-summarizer
 pip install -r requirements.txt
+```
+
 ## Usage
 To summarize an article, simply go to any article website, copy the URL, and paste it in Summize's website. The tool will automatically retrieve the article, preprocess the text, and generate a summary using the OpenAI GPT-4 model. The summary will be displayed on the website, making it easy for you to quickly understand the main points of the article.
 
